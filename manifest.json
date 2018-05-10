@@ -1,0 +1,7 @@
+{
+  "name": "hirelings-ui",
+  "short_name": "hirelings-ui",
+  "description": "Front-end polymer app for hirelings-api",
+  "start_url": "/",
+  "display": "standalone"
+}
